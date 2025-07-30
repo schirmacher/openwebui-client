@@ -1,0 +1,4 @@
+requests
+Pillow
+reportlab
+python-docx
