@@ -1,4 +1,4 @@
-requests
+openwebui-client
 Pillow
-reportlab
 python-docx
+reportlab
